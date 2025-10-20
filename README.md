@@ -5,7 +5,7 @@
 
 ### Code Quality
 
-![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=nikent_anisimV_python-project-49&metric=alert_status)
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=python-project-49&metric=alert_status)
 ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=nikent_anisimV_python-project-49&metric=bugs)
 ![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=nikent_anisimV_python-project-49&metric=vulnerabilities)
 ![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=nikent_anisimV_python-project-49&metric=code_smells)
