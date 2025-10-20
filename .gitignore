@@ -28,3 +28,6 @@ build/
 # Секреты и конфигурации
 .env
 *.secret
+
+# SonarQube
+sonar-project.properties

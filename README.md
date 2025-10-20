@@ -5,7 +5,6 @@
 
 ### Code Quality
 
-![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=hexlet-code&metric=alert_status)
-![Bugs](https://sonarcloud.io/api/project_badges/measure?project=hexlet-code&metric=bugs)
-![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=hexlet-code&metric=vulnerabilities)
-
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=anisim_python-project-49&metric=alert_status)
+![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=anisim_python-project-49&metric=code_smells)
+![Duplications](https://sonarcloud.io/api/project_badges/measure?project=anisim_python-project-49&metric=duplicated_lines_density)
