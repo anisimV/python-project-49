@@ -11,6 +11,7 @@ def is_even_game(user_name):
     """Игра: проверка, чётное ли число"""
     count = 0
     while count < 3:
+        # The random number is used for game logic only — no security risk here.
         num = random.randint(0, 999)
         print('Answer "yes" if the number is even, otherwise answer "no".')
         print('Question: ' + str(num))
