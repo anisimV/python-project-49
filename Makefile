@@ -15,3 +15,8 @@ build:
 # Установка собранного пакета из dist/*.whl
 package-install:
 	uv tool install dist/*.whl
+
+
+# Проверка линтером Ruff
+lint:
+	uv run ruff check brain_games
