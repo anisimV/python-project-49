@@ -4,7 +4,6 @@ RULES = "What is the result of the expression?"
 
 
 def generate_round():
-    """Генерирует выражение и правильный ответ."""
     num1 = random.randint(0, 20)
     num2 = random.randint(0, 20)
     operator = random.choice(['+', '-', '*'])
